@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hej Världen t5the");
-
+            CoolFeature.Run();
         }
     }
 }
